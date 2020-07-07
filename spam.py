@@ -204,7 +204,7 @@ for i in range(1):
     call()
     sleep(1)
     soplai()
-    sleep(1)
+    sleep(7)
     cal1()
 print ("\033[1;97m[\033[1;92m+\033[1;97m]SPAM\033[90m-\033[1;92mSUCCESS")
 balik()
