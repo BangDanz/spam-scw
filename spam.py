@@ -186,7 +186,7 @@ def soplai():
     dat=json.dumps({"phone":no})
     r = requests.post("https://api.sooplai.com/customer/register/otp/request", data=dat, headers=ua)
 kata("""
-\033[1;97m    SPAMMER
+\033[1;97m        SPAMMER
      \033[90m------------
 
 \033[1;97m[\033[1;95m•\033[1;97m]Author  :\033[1;96mFahmiApz
